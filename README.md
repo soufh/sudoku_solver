@@ -11,6 +11,7 @@ Its nine strings in which container nine character between 1 to 9 plus dot (.).
 
 the output format is Such:
 example :
+
 9 1 4 3 7 5 2 6 8
 2 8 7 4 9 6 1 5 3
 3 6 5 8 1 2 4 7 9
